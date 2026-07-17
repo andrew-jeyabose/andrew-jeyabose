@@ -4,8 +4,8 @@
 
 I build deep learning systems that make sense of high-dimensional biological imaging data — from rs-fMRI and histopathology to volumetric MRI. My work sits at the intersection of representation learning, Vision Transformers, and scalable production ML, with the goal of accelerating scientific discovery and improving clinical outcomes.
 
-Currently: **Research Associate, UNC Chapel Hill** — Technical AI Lead for NIH R01NS125897 ($1.24M)  
-Recognition: **Stanford/Elsevier Top 2% Scientists Worldwide** (2024, 2025) · IEEE Senior Member  
+Currently: **Research Associate, Johns Hopkins Medicine**  
+Recognition: **Stanford/Elsevier Highly Cited Scientists Worldwide** (2024 - 2025) · IEEE Senior Member  
 Publications: **90+** · Citations: **2,250+** · h-index: **22**
 
 ---
